@@ -1,0 +1,329 @@
+I-DPM · Research & development · 2025–2026
+Key technological breakthroughs
+From intelligent commands to intelligently determined physical interaction.
+By Aleksandr Krimanov — independent researcher, inventor and intellectual-property owner.
+An English edition of the author’s technical overview. These sections present architectural proposals and application directions; performance targets are distinguished from measured results. External statistics are reproduced as attributed in the source document.
+Twelve development directions
+A fundamental shift in the paradigm of physical execution
+From mining to harvesting
+A new environmental benchmark: physical selectivity
+Underwater and under-ice extraction
+Space resource harvesting
+Europe and critical raw materials
+Tailings facilities: a starting point for a new industry
+Intelligent Field Skin
+Neurointerface 3.0: an advanced application of the architecture
+I-DPM and Industry 5.0: the physical execution layer
+Technical feasibility through architectural integration
+A distributed swarm: industrial operation without a central factory
+Breakthrough 01
+A fundamental shift in the paradigm of physical execution
+The current situation
+Artificial intelligence has reached a level that enables it to interpret complex physical environments, construct digital twins, predict processes and make decisions in real time. Yet the physical execution layer still predominantly consists of mechanically predetermined devices: manipulators, drives, drill bits, buckets, cutters, pumps, valves, crushers and transport mechanisms.
+An autonomous excavator remains an excavator. A robotic drill remains a drill. A “smart” mine remains a mine.
+Traditional execution layers rely on tools and mechanisms with fixed functions (Level 1.0), or adaptive control of functionally fixed actuators (Level 2.0). This creates a gap between evolving computational intelligence and structurally constrained physical interaction with matter.
+The proposed breakthrough: Level 3.0
+I-DPM — Intellectually Defined Processing of Materials — is an architecture in which intelligence determines the physical interaction profile itself: its topology, spatial distribution, frequency, phase, amplitude, direction and temporal sequence of electromagnetic, acoustic, optical, thermal, plasma or combined actions.
+K-PRINCIPLE addresses this gap by returning the previous physical action to the system as a measurable response of the material environment. That response updates the model of its current state and becomes the basis for synthesizing the next spatiotemporal configuration of physical interaction.
+The object of intelligent determination becomes the configuration of the physical field, gradient, force landscape and energy distribution.
+R
+n
+→ M
+n
+→ W
+n
+→ R
+n+1
+Response → model → field configuration → new response.
+The registered physical or multiphysical response of the causally connected material environment, R
+n
+, forms or updates its current-state model, M
+n
+. The model may be a digital twin, dynamic map, state tensor, feature representation, latent representation or a combination of these. Together with the objective function and operating constraints, it determines the next spatiotemporal interaction configuration, W
+n
+, implemented through CybAK — Krimanov CyberActuators.
+The I-DPM ARIADNE Loop
+is a continuous causal thread connecting purposeful probing, response acquisition, current-state modelling, action synthesis, physical change, verification and the next cycle in the same causally connected domain.
+Sub-relaxation operation
+is a real-time regime in which the next configuration is formed while the registered response remains causally applicable to the current state of the interaction domain.
+t
+cycle
+≤ τ
+relaxation
+The preferred deep sub-relaxation regime is:
+t
+cycle
+≤ 0.1 · τ
+relaxation
+Applications
+At industrial scale, the KRIMANOV DEMETER / DEMETER K paradigm replaces bulk excavation and processing with intelligent resource harvesting: prior detection, identification, selective physical separation, movement, collection and verification of the target component, while minimizing movement of non-target environmental mass.
+In energy applications, I-DPM provides an architectural basis for dynamically matched energy transfer, localization and distribution in changing heterogeneous environments.
+The architecture also provides a foundation for an in vivo I-DPM neurointerface, in which probing, response acquisition, individualized current-state modelling, action and verification form a bidirectional Neuro-K-Loop under dynamic neural-homeostasis constraints.
+↑ Contents
+Breakthrough 02
+From mining to harvesting
+The current situation
+To obtain a small fraction of target material, industry still follows a bulk-processing chain:
+Open the deposit.
+Break up the material mass.
+Capture the mixture.
+Move it.
+Crush it.
+Grind it.
+Sort it.
+Concentrate it.
+Transport the product.
+Store most of the remaining mass as waste.
+The source document cites UNEP’s 2024 assessment: global natural-resource consumption increased from approximately 30 to 106 billion tonnes per year over the preceding 50 years. Extraction and processing account for more than 60% of emissions driving global warming and around 40% of air-pollution-related health impacts. Without a change of course, extraction could rise by a further 60% by 2060 relative to 2020.
+The proposed breakthrough: DEMETER K
+A fundamentally different production logic:
+Mining:
+extract bulk mass → break it up → move it → separate it → identify the useful fraction.
+Harvesting:
+detect the target → identify it → model it → act selectively → move it → collect it → verify.
+A proposed DEMETER K measure of industrial efficiency:
+η
+selective
+= M
+target
+/ (M
+target
++ M
+ballast
+)
+The limiting objective is M
+ballast
+→ min: collect more target material while interacting with less surrounding matter.
+Design target:
+99.9% extraction accuracy at the point of detection, without lifting millions of tonnes of seabed sediment to the surface. This figure is a target stated in the source, rather than a reported experimental result.
+↑ Contents
+Breakthrough 03
+A new environmental benchmark: physical selectivity
+The current situation
+Environmental improvements are often pursued through additional filters, treatment facilities and compensatory measures. The architectural problem remains: the lower the concentration of target material, the more of the environment must become process feed and subsequently waste.
+The conventional model produces large open pits, overburden dumps, tailings facilities, acid drainage, heavy-metal contamination, disruption of water systems, dust emissions, soil loss and habitat destruction.
+The proposed breakthrough
+Environmental performance becomes a core industrial function of the architecture.
+Proposed DEMETER K performance indicators:
+Ratio of recovered target mass to displaced non-target mass.
+Volume of the environment left undisturbed.
+Energy per unit of target component.
+Water consumption.
+Volume of generated tailings.
+Residual anomaly: a measurable signature after intervention.
+Recognition accuracy.
+Selectivity of the applied force.
+Probability of damage to the non-target environment.
+↑ Contents
+Breakthrough 04
+Underwater and under-ice extraction
+The current situation
+Marine and under-ice resources are constrained by depth, pressure and ice, and by a mechanical paradigm that requires:
+Opening the seabed material mass.
+Moving large quantities of material.
+Lifting seabed slurry to the surface.
+Heavy mining infrastructure.
+Reliable communications, navigation and positioning.
+Subsequent processing.
+Geological assessment should consider evolving systems: source → transport → sorting → hydrodynamic trap → preserved deposit, rather than assuming immutable transport channels.
+The proposed breakthrough
+Bring a compact intelligent field executor to the deposit. A proposed underwater or under-ice system would:
+Loosen sediment locally.
+Create a confined flow.
+Probe it using the same reconfigurable stator.
+Identify the conductive component.
+Generate a directed travelling field.
+Move the target into a collection channel.
+Return depleted material to the environment.
+Recheck the treated zone.
+The key distinction:
+the bulk of the surrounding material does not need to be lifted to the surface.
+↑ Contents
+Breakthrough 05
+Space resource harvesting
+The current situation
+Terrestrial mining equipment relies on its weight, stable support, friction, the ability to press a working element against the material, relatively accessible maintenance and gravitational settling.
+In microgravity or low gravity, mass and inertia remain, but conventional weight and pressing forces decrease. Every mechanical action produces a reaction on the carrier.
+Excavation, drilling and regolith transport therefore require anchoring, additional mass, momentum compensation, dust protection, particle-dispersion control, wear resistance, high autonomy and complex power and thermal infrastructure.
+The proposed breakthrough
+Autonomously form the required physical interaction directly within the local resource zone, reducing the need to move bulk regolith to a processing plant.
+The proposed space CyberActuator would:
+Probe regolith or asteroid material.
+Build a dynamic composition model.
+Detect conductive, polarizable or otherwise distinguishable components.
+Create local force minima and transport channels.
+Concentrate selected material.
+Separate it from ballast.
+Form structures from local feedstock.
+Verify the result.
+Operate autonomously over long periods, individually and/or as a functionally distributed swarm.
+Asteroid (16) Psyche as an illustration of scale
+The source describes Psyche as approximately 226 km in diameter, probably composed of a mixture of metal and silicate rock, and cites a NASA estimate of 50–60% metal by volume.
+Metal-bearing bodies illustrate the scale of extraterrestrial resources. Access under microgravity conditions motivates a different execution architecture from conventional terrestrial mining systems.
+↑ Contents
+Breakthrough 06
+Europe and critical raw materials
+The current situation
+The source cites an IEA projection that, by 2035, China could supply approximately 90% of refined rare-earth elements and battery graphite, and more than 60% of refined lithium and cobalt.
+The source also identifies further restrictions on rare-earth exports and related technologies in 2026 as a practical supply-chain concentration risk for energy, transport, defence, aerospace, semiconductors and artificial intelligence.
+The proposed breakthrough
+DEMETER K offers several parallel development directions for Europe:
+Recovery of components from tailings.
+Reworking anthropogenic deposits.
+Working with low-grade and dispersed ores.
+Selective recovery of associated elements.
+Underwater and coastal resources.
+Processing electronic and industrial waste.
+Reducing environmental conflict around new open pits.
+Resources exist, but the cost of bulk access and processing can make them inaccessible.
+↑ Contents
+Breakthrough 07
+Tailings facilities: a starting point for a new industry
+The current situation
+Industrial tailings may contain residual gold, copper, rare-earth elements, cobalt, nickel, lithium and associated minerals that had little value when the original extraction took place.
+Conventional reprocessing can be uneconomic because it again requires treating the entire mass.
+The proposed breakthrough
+Change the task: build a spatial map of residual components and selectively harvest them from local concentration zones, with real-time updates.
+Harvesting would serve two functions simultaneously:
+Recovery of critical raw materials.
+Environmental remediation of an industrial site.
+↑ Contents
+Breakthrough 08
+Intelligent Field Skin
+The current situation
+The executor is typically a single mechanical working element: a bucket, drill bit, manipulator, pump or scanner.
+The proposed breakthrough
+Intelligent Field Skin is a flexible, semi-rigid, rigid or volumetric structure comprising many controllable sensing-and-actuation cells.
+Cells may use a hexagonal or honeycomb arrangement and incorporate conductive sections, sensors, emitting elements, excitation elements, shielding elements, switching means and local computing units.
+The proposed field skin would:
+Register external response.
+Form a local model.
+Create an intelligently determined force landscape.
+Form successive traps and channels.
+Transfer a target component from cell to cell.
+Control reflection, absorption, scattering, phase and polarization.
+Change an object’s physical signature.
+Function as both a distributed sensor and executor.
+The executor becomes a distributed physical surface.
+↑ Contents
+Breakthrough 09
+Neurointerface 3.0: an advanced application of the architecture
+The current situation
+Neurolevel 1.0:
+a neural signal or symptom is recorded → fixed stimulation or an external device is modified through a unidirectional or predetermined channel.
+Neurolevel 2.0:
+a biomarker and feedback are recorded → timing, amplitude and frequency are adjusted within the predefined physical geometry of the executor.
+The proposed breakthrough: Neurolevel 3.0 — I-DPM
+Register the multiphysical response of the target region and access pathway.
+Change the spatiotemporal configuration of probing and action.
+Develop an individually determined physical interface in vivo.
+The formal Neuro-K-Loop architecture:
+G
+n
+→ P
+n
+→ R
+n
+→ M
+n
+→ W
+n
+→ S
+n+1
+→ V
+n+1
+G
+n
+Diagnostic, communication, functional or modulation objective.
+P
+n
+Targeted probing configuration.
+R
+n
+Registered neurophysiological and multiphysical response.
+M
+n
+Individualized current-state model.
+W
+n
+Action configuration determined by the model.
+S
+n+1
+Changed state.
+V
+n+1
+Result of subsequent verification.
+The neurointerface is a direct architectural application of K-PRINCIPLE to living neurophysiological matter.
+↑ Contents
+Breakthrough 10
+I-DPM and Industry 5.0: the physical execution layer
+The current situation
+The European Industry 5.0 concept identifies three pillars: sustainability, human-centricity and resilience to crises and supply-chain disruptions.
+It predominantly addresses industrial organization, human–technology interaction, enterprise resilience and societal value. Without changes to the execution layer, it can remain a humanized digital layer over Industry 4.0 physical processes.
+The proposed breakthrough
+I-DPM offers a material execution architecture aligned with these goals:
+Sustainability:
+minimizing environmental destruction.
+Human-centricity:
+removing people from hazardous zones.
+Resource security:
+access to local, secondary and previously inaccessible resources.
+Intelligence:
+model-conditioned synthesis of action.
+Environmental performance:
+harvesting in place of bulk excavation.
+Resilience:
+distributed autonomous systems and local resource provision.
+Krimanov CyberActuator is proposed as a physical execution layer for Industry 5.0.
+↑ Contents
+Breakthrough 11
+Technical feasibility through architectural integration
+The current situation
+Individual mechanisms and components already exist: electromagnetic induction, eddy currents, Lorentz force, ponderomotive forces, dielectrophoresis, acoustic pressure, cavitation, plasma regimes, phased arrays, segmented windings, impedance measurement, digital twins, FPGAs and wide-bandgap GaN and SiC switches.
+The proposed breakthrough
+The author’s proposed novelty lies in their required causal integration within a common architecture. I-DPM does not require the discovery of an unknown physical force.
+The development programme includes application-specific specification, modelling, selection of the working environment, geometry design, prototype fabrication, efficiency measurement, scaling, certification and development of an industrial standard.
+Application-specific feasibility and performance remain to be established through modelling and experimental validation.
+↑ Contents
+Breakthrough 12
+A distributed swarm: industrial operation without a central factory
+The current situation
+Industry relies on centralized factories, heavy equipment and a single processing location.
+The proposed breakthrough
+An I-DPM swarm is more than a group of mobile robots. Its nodes may jointly form:
+A distributed sensor.
+A partitioned digital twin.
+A virtual computational core.
+A unified spatial field executor.
+In the resource branch, an individual module may be viewed as a micro-scale mining-and-processing unit, and the swarm as a distributed resource-processing environment without a single heavy central factory.
+Modules would continuously refine the map, allocate working zones, synchronize fields, transfer energy and reassign tasks when individual nodes fail.
+↑ Contents
+Technology levels compared
+Physical execution: Levels 1.0, 2.0 and 3.0
+Level
+What is registered
+What changes
+Constraint or new capability
+1.0 — Mechanically predetermined action
+—
+Command to a fixed actuator
+The machine’s function is fixed by the geometry of its working element.
+2.0 — Adaptive control
+Error and state through sensors
+Command adjustments within a fixed executor
+Intelligence may be sophisticated, while the executor remains functionally predetermined.
+3.0 — I-DPM / Krimanov CyberActuator
+Physical or multiphysical environmental response, Rₙ
+Spatiotemporal physical-field configuration
+The system determines the next configuration of physical interaction as well as the command to the executor.
+Final declaration
+Modern industry faces the limits of its methods of accessing resources. Underwater, under-ice, extraterrestrial, low-grade, dispersed and anthropogenic resources can remain inaccessible because their value does not offset the costs of bulk disruption, lifting, transport and processing.
+The I-DPM paradigm aims to change the technological accessibility of matter across physical environments. Access to previously unavailable resources would expand the usable resource base. Its architecture includes functionally distinct levels of application-specific interaction with matter.
+I-DPM proposes a foundational architecture for the physical execution layer of Physical AI. The material environment becomes a causally integrated information-and-physics node, whose current response participates in determining the next physical interaction.
+The intended transition is from conventional machine control to intelligently determined synthesis of physical interaction with matter.
+Public materials
+English I-DPM publication — Zenodo
+Russian I-DPM publication — Zenodo
+Krimanov Principle — YouTube
+Russian audio edition — AI narration
+Return to the main website
